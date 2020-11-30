@@ -1,0 +1,9 @@
+C:\Users\joao.nascimento\source\repos\AuxiliadorDeVenda\bin\Debug\AuxiliadorDeVenda.exe.config
+C:\Users\joao.nascimento\source\repos\AuxiliadorDeVenda\bin\Debug\AuxiliadorDeVenda.exe
+C:\Users\joao.nascimento\source\repos\AuxiliadorDeVenda\bin\Debug\AuxiliadorDeVenda.pdb
+C:\Users\joao.nascimento\source\repos\AuxiliadorDeVenda\obj\Debug\AuxiliadorDeVenda.csprojAssemblyReference.cache
+C:\Users\joao.nascimento\source\repos\AuxiliadorDeVenda\obj\Debug\AuxiliadorDeVenda.Form1.resources
+C:\Users\joao.nascimento\source\repos\AuxiliadorDeVenda\obj\Debug\AuxiliadorDeVenda.Properties.Resources.resources
+C:\Users\joao.nascimento\source\repos\AuxiliadorDeVenda\obj\Debug\AuxiliadorDeVenda.csproj.GenerateResource.cache
+C:\Users\joao.nascimento\source\repos\AuxiliadorDeVenda\obj\Debug\AuxiliadorDeVenda.exe
+C:\Users\joao.nascimento\source\repos\AuxiliadorDeVenda\obj\Debug\AuxiliadorDeVenda.pdb
